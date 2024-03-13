@@ -1,0 +1,4 @@
+ print('hello world')
+if 5 > :
+   print('больше')
+ 

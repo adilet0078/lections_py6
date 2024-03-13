@@ -1,0 +1,8 @@
+{
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "hasChildren": null,
+    "wife": false,
+    "status": true
+}
